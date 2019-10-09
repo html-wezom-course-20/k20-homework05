@@ -1,0 +1,24 @@
+# PSD mackets
+/design/
+
+# Local tests
+/tests/
+
+# npm
+/nodu_modules/
+
+# Nodejs
+.npm/
+node_modules/
+*.log*
+
+# fs
+.DS_Store
+thumbs.db
+
+# IDE
+*.iml
+.idea/
+/nbproject/
+/out/
+.idea_modules/
